@@ -66,7 +66,7 @@ blockquote {
 	}
 		ul {
 			margin-left:3.8em;
-			li:before {content: "•"; font-size:170%; vertical-align:top; margin-right:0.4em}
+			li:before {content: ">"; font-size:170%; vertical-align:top; margin-right:0.4em}
 		}
 		ol {
 			counter-reset:item; margin-left:2.4em;
