@@ -4,6 +4,7 @@
 
 *.pydevproject
 .project
+.sass-cache/
 .metadata
 bin/
 tmp/
